@@ -1,0 +1,101 @@
+body{
+  background-color: rgba(27, 93, 138, 0.658);
+  margin-top: 0%;
+}
+.rt{
+ float: right;
+ width: 50%;
+ text-align: right;
+ color: white;
+ margin-top: 0%;
+}
+.rt a{
+  margin-left: 15px;
+}
+.lft{
+  font-size: 30px;
+  font-weight: 50;
+  color: white;
+  float: left;
+  width: 50%;
+  margin-top: 0%;
+
+}
+.upper{
+  padding: 10px;
+  padding-top: 0%;
+  margin-bottom: 0%;
+  margin-top: 0%;
+  margin-left:50px ;
+  margin-right: 50px;
+}
+
+.contentp1{
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 20px;
+  padding-bottom: 0%;
+  
+
+}
+.contentp2{ 
+  text-align: center;
+  font-size: 15px;
+  margin-top: 0%;
+ 
+}
+.btm{
+  background-color: rgba(27, 93, 138, 0.658);
+  color: white;
+ border-radius: 10px;
+ border-color: white;
+ color: white;
+ padding: 15px;
+ width: 150px;
+}
+.cont{
+  padding: 10px;
+}
+figure img{
+  height: 200px;
+  width: 300px;
+  border-radius: 20px;
+}
+.fig{
+  background-color: white;
+  height: 400px;
+  width: 100%;
+  position: relative;
+  justify-content: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-flow: wrap;
+  margin: 0;
+  margin-bottom: 4%;
+}
+.rtbt{
+  float: right;
+  width: 50%;
+  text-align: right;
+  color: white;
+  margin-top: 0%;
+ }
+ .rtbt a{
+  font-size: 15px;
+  margin-left: 15px;
+ }
+ .lftbt{
+   font-size: 10px;
+   color: white;
+   float: left;
+   width: 50%;
+   margin-top: 0%;
+ 
+ }
+ .lower{
+   margin-left:50px ;
+   margin-right: 50px;
+ }
+ 
+

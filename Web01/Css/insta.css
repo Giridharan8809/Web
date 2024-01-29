@@ -1,0 +1,12 @@
+body{
+    margin: 50px;
+    align-items: center;
+   
+}
+.btdiv{
+    margin-top: 5px;
+    border: 2px solid rgb(238, 222, 222);
+}
+.box{
+    border: 2px solid black;
+}
